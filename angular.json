@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "formAngular"
+  "defaultProject": "formAngular",
+  "cli": {
+    "analytics": false
+  }
 }
